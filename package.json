@@ -1,0 +1,23 @@
+{
+  "name": "emoji-cook",
+  "version": "0.0.1",
+  "description": "Inspired by emoji kitchen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jess-2021/emoji-cook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jess-2021/emoji-cook/issues"
+  },
+  "homepage": "https://github.com/Jess-2021/emoji-cook#readme",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}
