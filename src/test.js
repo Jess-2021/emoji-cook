@@ -1,3 +1,3 @@
-const u = require('./index')
+const u = require('../dist/emojiCook.min')
 
-console.log(u.concatEmoji('😊', '😂'))
+console.log(u.emojiCook.concatEmoji('😊', '😂'))

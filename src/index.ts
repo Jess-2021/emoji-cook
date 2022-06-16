@@ -1,6 +1,6 @@
 import { SOURCE_URL, type EmojiCombo } from "./constants"
 import { getEmojiUnicode } from "./utils"
-import EMOJI_DATA from './emojiData.json'
+import * as EMOJI_DATA from './emojiData.json'
 
 const googleRequestUrlEmojiPart = (emoji: string): string => {
   return emoji
